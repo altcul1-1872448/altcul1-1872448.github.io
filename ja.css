@@ -1,0 +1,63 @@
+#from-group row{
+    border: solid 8px black;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
+    text-align: center;
+    background-color: #8E41D5;
+}
+#form-group{
+    border: solid 8px black;
+    width: 400px;
+    float: left;
+    text-align: center;
+    background-color: #8E41D5;
+    padding-bottom: 8px;
+
+}
+#container{
+    border: solid 8px black;
+    width: 700px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    background-color: #8E41D5;
+    padding: 15px;
+   
+}
+#Footer{
+    border: solid 8px black;
+    text-align: center;
+    background-color: #8E41D5;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+#state{
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Passion One";
+    color: #FFBC00
+}
+#personal statements{
+    font-family: arial;
+    color:white;
+    font-weight: bold;
+}
+#form-horizontal{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Passion One";
+    color: #FFBC00;
+}
+body{
+    background-color: black;
+}
+
+#grad {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+  }
